@@ -12,7 +12,7 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 * [PCA](#PCA)
 
 ## quadratic-formulation
-![alg1](https://user-images.githubusercontent.com/86723888/153251050-1008c768-0153-45b8-a4cf-8804bfeae787.png)
+![alg1](https://user-images.githubusercontent.com/86723888/153251265-cc20161d-68c7-4a1b-a09b-884f7100fbe8.png)
 
 
 ## PCA
