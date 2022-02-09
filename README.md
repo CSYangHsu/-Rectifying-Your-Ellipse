@@ -10,6 +10,7 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 ## Algorithms
 * [quadratic formulation](#quadratic-formulation)
 * [PCA](#PCA)
+* [compare of the above two](#DEMO)
 
 ## quadratic-formulation
 ![alg1](https://user-images.githubusercontent.com/86723888/153251265-cc20161d-68c7-4a1b-a09b-884f7100fbe8.png)
@@ -31,3 +32,5 @@ the center of data. The quadratic form that fits the original data will be
 ![螢幕擷取畫面 2022-02-10 010916](https://user-images.githubusercontent.com/86723888/153252789-9cb88326-ffa2-41e3-842a-a342f653e2a1.png)  
 
 After expanding the above equation, we can have the general quadratic form.
+
+## DEMO
