@@ -17,6 +17,7 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 
 ## PCA
 The basic idea is to translate and rotate them into the standard ellipse. The first step is to find the center of those points, which is the mean, and then translate them so the center will be the new origin. The second step is to form a special matrix, called "covariant matrix".  
+
 ![alg2](https://user-images.githubusercontent.com/86723888/153251384-212ebb0c-2a33-44bb-8754-0a7be3a7aabd.png)
 
 The last step is to express the fitted ellipse back into the general quadratic
