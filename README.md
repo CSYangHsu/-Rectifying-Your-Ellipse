@@ -48,6 +48,14 @@ algorithm1　　　　　　　　　　　　algorithm2　　　　　　　　
 
 - example2:  
 ![eclipse-1](https://user-images.githubusercontent.com/86723888/153258073-e2b36170-25c8-4d86-ae45-030328637a9d.png)
+  
+algorithm1　　　　　　　　　　　　algorithm2　　　　　　　　　　　　compare 
+![ex21](https://user-images.githubusercontent.com/86723888/153261704-cbf4dc42-a410-48c4-82f1-d82a84819c9c.png)![ex22](https://user-images.githubusercontent.com/86723888/153261698-a12e3356-0ac7-4543-b7e4-ae2e8582f222.png)![ex23](https://user-images.githubusercontent.com/86723888/153261703-c06f8c66-176d-48fa-bb43-78032ac57b53.png)
+
+
+
+
+
 
 - example3:  
 ![eclipse-2](https://user-images.githubusercontent.com/86723888/153258150-f02953db-b1fc-4c35-9e66-e5ef944e2688.png)
