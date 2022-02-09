@@ -16,4 +16,5 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 
 
 ## PCA
+![alg2](https://user-images.githubusercontent.com/86723888/153251384-212ebb0c-2a33-44bb-8754-0a7be3a7aabd.png)
 
