@@ -1,4 +1,4 @@
-# -Rectifying-Your-Ellipse
+# Rectifying-Your-Ellipse
 In the  former project "Perfecting-Your-Drawing", i fitted the ellipses using the general quadratic form, a x^2  + b xy + c x^2 y + d x + e y  =  1.  
 This approaches has many drawbacks.  
 First, the quadratic form is not only for ellipse. It is for all kinds of conic sections, including circle, ellipse, parabola, and hyperbola. How to tell the shape of the drawing?   
