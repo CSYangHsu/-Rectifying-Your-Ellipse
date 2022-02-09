@@ -34,15 +34,15 @@ the center of data. The quadratic form that fits the original data will be
 After expanding the above equation, we can have the general quadratic form.
 
 ## DEMO
-- example1:
+- example1:  
 <img width="50" alt="bean" src="https://user-images.githubusercontent.com/86723888/153258033-cd7b3fb4-bfa4-4142-81f6-384be6aa4b3f.png">
 
-- example2:
+- example2:  
 ![eclipse-1](https://user-images.githubusercontent.com/86723888/153258073-e2b36170-25c8-4d86-ae45-030328637a9d.png)
 
-- example3:
+- example3:  
 ![eclipse-2](https://user-images.githubusercontent.com/86723888/153258150-f02953db-b1fc-4c35-9e66-e5ef944e2688.png)
 
-- example4:
+- example4:  
 ![eclipse-3](https://user-images.githubusercontent.com/86723888/153258173-14bd076d-6693-4890-a252-10754af41d9b.png)
 
