@@ -8,6 +8,6 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 ![fig1](https://user-images.githubusercontent.com/86723888/153245803-e36aa976-436e-48ef-80dd-c977fc2742ba.png)
 
 ## Algorithms
-* [quadratic formulation](#quadratic formulation)
+* [quadratic formulation](#quadratic_formulation)
 * [PCA](#PCA)
 
