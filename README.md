@@ -7,10 +7,10 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 - the quadratic form is not the standard ellipse we are familar with, as shown in Figure 1. From the coefficients in general quadratic form, we do not know what the parameters of the ellipse, such as the width and the height.
 ![fig1](https://user-images.githubusercontent.com/86723888/153245803-e36aa976-436e-48ef-80dd-c977fc2742ba.png)
 
-## Algorithms
-* [quadratic formulation](#quadratic-formulation)
-* [PCA](#PCA)
-* [compare of the above two](#DEMO)
+## Table of Contents
+* [Algorithms 1: quadratic formulation](#quadratic-formulation)
+* [Algorithms 2: PCA](#PCA)
+* [DEMO](#DEMO)
 
 ## quadratic-formulation
 ![alg1](https://user-images.githubusercontent.com/86723888/153251265-cc20161d-68c7-4a1b-a09b-884f7100fbe8.png)
