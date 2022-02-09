@@ -37,10 +37,12 @@ After expanding the above equation, we can have the general quadratic form.
   
   
 ## DEMO
+algorithm1, algorithm2, compare:  
+
 - example1:  
 <img width="50" alt="bean" src="https://user-images.githubusercontent.com/86723888/153259615-04a469ec-aead-4091-8f96-0161f942fcaa.png">     
   
-algorithm1　　　　　　　　　　　　algorithm2　　　　　　　　　　　　compare    
+  
 ![beam1](https://user-images.githubusercontent.com/86723888/153259724-355241fe-49f8-42bf-a79e-1b3ee29a80a2.png)![beams2](https://user-images.githubusercontent.com/86723888/153259820-65cd9f69-7ea3-4a20-b9f9-3b9b143733f1.png)![beamscmp](https://user-images.githubusercontent.com/86723888/153261158-56d7245e-09a6-40a4-b69d-8077f3326ed6.png)
 
 
@@ -52,7 +54,7 @@ algorithm1　　　　　　　　　　　　algorithm2　　　　　　　　
 - example2:  
 ![eclipse-1](https://user-images.githubusercontent.com/86723888/153258073-e2b36170-25c8-4d86-ae45-030328637a9d.png)
   
-algorithm1　　　　　　　　　　　　algorithm2　　　　　　　　　　　　compare 
+
 ![ex21](https://user-images.githubusercontent.com/86723888/153261704-cbf4dc42-a410-48c4-82f1-d82a84819c9c.png)![ex22](https://user-images.githubusercontent.com/86723888/153261698-a12e3356-0ac7-4543-b7e4-ae2e8582f222.png)![ex23](https://user-images.githubusercontent.com/86723888/153261703-c06f8c66-176d-48fa-bb43-78032ac57b53.png)
 
 
