@@ -13,9 +13,10 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 * [DEMO](#DEMO)
 
 ## quadratic-formulation
-![alg1](https://user-images.githubusercontent.com/86723888/153251265-cc20161d-68c7-4a1b-a09b-884f7100fbe8.png)
+![alg1](https://user-images.githubusercontent.com/86723888/153251265-cc20161d-68c7-4a1b-a09b-884f7100fbe8.png)  
 
-
+  
+  
 ## PCA
 The basic idea is to translate and rotate them into the standard ellipse. The first step is to find the center of those points, which is the mean, and then translate them so the center will be the new origin. The second step is to form a special matrix, called "covariant matrix".  
 
@@ -32,7 +33,9 @@ the center of data. The quadratic form that fits the original data will be
 ![螢幕擷取畫面 2022-02-10 010916](https://user-images.githubusercontent.com/86723888/153252789-9cb88326-ffa2-41e3-842a-a342f653e2a1.png)  
 
 After expanding the above equation, we can have the general quadratic form.
-
+  
+  
+  
 ## DEMO
 - example1:  
 <img width="50" alt="bean" src="https://user-images.githubusercontent.com/86723888/153259615-04a469ec-aead-4091-8f96-0161f942fcaa.png">     
