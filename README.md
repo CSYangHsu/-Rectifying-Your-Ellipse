@@ -12,9 +12,8 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 * [PCA](#PCA)
 
 ## quadratic-formulation
-![al1](https://user-images.githubusercontent.com/86723888/153250276-9c13bbe0-f113-4f63-b444-d5e40d0a6ef9.png)
+![alg1](https://user-images.githubusercontent.com/86723888/153251050-1008c768-0153-45b8-a4cf-8804bfeae787.png)
+
 
 ## PCA
-![al3](https://user-images.githubusercontent.com/86723888/153250717-3b0d53f7-1efc-4c39-80dd-0f8b0d551569.png)
 
-![螢幕擷取畫面 2022-02-10 005903](https://user-images.githubusercontent.com/86723888/153250898-f71d2f2a-7ed6-4b42-a985-e4c84a9b6fff.png)
