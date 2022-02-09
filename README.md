@@ -1,6 +1,5 @@
 # Rectifying-Your-Ellipse
-In the former project "Perfecting-Your-Drawing", i fitted the ellipses using the general quadratic form,  
-                    "a x^2  + b xy + c x^2 y + d x + e y  =  1"--(1)    
+In the former project "Perfecting-Your-Drawing", i fitted the ellipses using the general quadratic form,"a x^2  + b xy + c x^2 y + d x + e y = 1"--(1)    
 This approaches has many drawbacks. In this project, i will find the standard form of the ellipse best approxmating to the drawing with two new algorithms. 
 
 ## Problems
