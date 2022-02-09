@@ -18,13 +18,13 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 ## PCA
 The basic idea is to translate and rotate them into the standard ellipse. The first step is to find the center of those points, which is the mean, and then translate them so the center will be the new origin. The second step is to form a special matrix, called "covariant matrix".  
 
-                 ![alg2](https://user-images.githubusercontent.com/86723888/153251384-212ebb0c-2a33-44bb-8754-0a7be3a7aabd.png)
+![alg2](https://user-images.githubusercontent.com/86723888/153251384-212ebb0c-2a33-44bb-8754-0a7be3a7aabd.png)
 
 The last step is to express the fitted ellipse back into the general quadratic
 form, as in (1). Since we already know the translation and rotation, we can
 reverse the process. Let  
-                 ![螢幕擷取畫面 2022-02-10 010526](https://user-images.githubusercontent.com/86723888/153252115-2915e2f9-218f-4e9f-b137-5b39efdb9407.png)  
+![螢幕擷取畫面 2022-02-10 010526](https://user-images.githubusercontent.com/86723888/153252115-2915e2f9-218f-4e9f-b137-5b39efdb9407.png)  
 S = U * Σ * U^T  be the eigen-decomposition of the covariant matrix, and ( ¯x¯, ¯y¯) be
 the center of data. The quadratic form that fits the original data will be  
-                 ![螢幕擷取畫面 2022-02-10 010916](https://user-images.githubusercontent.com/86723888/153252789-9cb88326-ffa2-41e3-842a-a342f653e2a1.png)  
+![螢幕擷取畫面 2022-02-10 010916](https://user-images.githubusercontent.com/86723888/153252789-9cb88326-ffa2-41e3-842a-a342f653e2a1.png)  
 After expanding the above equation, we can have the general quadratic form.
