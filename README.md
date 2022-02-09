@@ -11,6 +11,7 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 * [Algorithm 1: quadratic formulation](#quadratic-formulation)
 * [Algorithm 2: PCA](#PCA)
 * [DEMO](#DEMO)
+* [Conclusion](#Conclusion)
 
 ## quadratic-formulation
 ![alg1](https://user-images.githubusercontent.com/86723888/153251265-cc20161d-68c7-4a1b-a09b-884f7100fbe8.png)  
@@ -74,9 +75,11 @@ left to right : algorithm1, algorithm2, compare:
 - example4:  
 ![eclipse-3](https://user-images.githubusercontent.com/86723888/153258173-14bd076d-6693-4890-a252-10754af41d9b.png)  
 
-![ex41](https://user-images.githubusercontent.com/86723888/153263459-dc522633-6bd4-4b09-829f-65d5af6908b0.png)![ex42](https://user-images.githubusercontent.com/86723888/153263502-a184cc91-c208-4deb-b4d4-0cdd57bcac63.png)![ex43](https://user-images.githubusercontent.com/86723888/153263511-f7f02bd2-68b5-4d04-908a-7955bcfa5939.png)
+![ex41](https://user-images.githubusercontent.com/86723888/153263459-dc522633-6bd4-4b09-829f-65d5af6908b0.png)![ex42](https://user-images.githubusercontent.com/86723888/153263502-a184cc91-c208-4deb-b4d4-0cdd57bcac63.png)![ex43](https://user-images.githubusercontent.com/86723888/153263511-f7f02bd2-68b5-4d04-908a-7955bcfa5939.png)  
 
 
+## Conclusion
+雖然肉眼上看來兩者如出一轍，但若從Mean square error (MSE)的角度來看，algorithm 1在大多數情況是較為優秀的。
 
 
 
