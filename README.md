@@ -15,3 +15,4 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 ![al1](https://user-images.githubusercontent.com/86723888/153250276-9c13bbe0-f113-4f63-b444-d5e40d0a6ef9.png)
 
 ## PCA
+![al3](https://user-images.githubusercontent.com/86723888/153250717-3b0d53f7-1efc-4c39-80dd-0f8b0d551569.png)
