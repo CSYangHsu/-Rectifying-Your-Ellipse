@@ -16,3 +16,5 @@ This approaches has many drawbacks. In this project, i will find the standard fo
 
 ## PCA
 ![al3](https://user-images.githubusercontent.com/86723888/153250717-3b0d53f7-1efc-4c39-80dd-0f8b0d551569.png)
+
+![螢幕擷取畫面 2022-02-10 005903](https://user-images.githubusercontent.com/86723888/153250898-f71d2f2a-7ed6-4b42-a985-e4c84a9b6fff.png)
