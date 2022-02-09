@@ -37,7 +37,7 @@ After expanding the above equation, we can have the general quadratic form.
   
   
 ## DEMO
-algorithm1, algorithm2, compare:  
+left to right : algorithm1, algorithm2, compare:  
 
 - example1:  
 <img width="50" alt="bean" src="https://user-images.githubusercontent.com/86723888/153259615-04a469ec-aead-4091-8f96-0161f942fcaa.png">     
@@ -63,8 +63,20 @@ algorithm1, algorithm2, compare:
 
 
 - example3:  
-![eclipse-2](https://user-images.githubusercontent.com/86723888/153258150-f02953db-b1fc-4c35-9e66-e5ef944e2688.png)
+![eclipse-2](https://user-images.githubusercontent.com/86723888/153258150-f02953db-b1fc-4c35-9e66-e5ef944e2688.png)  
+
+![ex31](https://user-images.githubusercontent.com/86723888/153263236-0f8631c1-4898-4be4-bf4f-b6a60f3ed576.png)![ex32](https://user-images.githubusercontent.com/86723888/153263248-3a4cb99a-27e6-40e2-8197-19e8ccc92d58.png)![ex33](https://user-images.githubusercontent.com/86723888/153263263-b532266f-42fc-4349-994b-c18e9cbdd76b.png)  
+
+
+
+
 
 - example4:  
-![eclipse-3](https://user-images.githubusercontent.com/86723888/153258173-14bd076d-6693-4890-a252-10754af41d9b.png)
+![eclipse-3](https://user-images.githubusercontent.com/86723888/153258173-14bd076d-6693-4890-a252-10754af41d9b.png)  
+
+![ex41](https://user-images.githubusercontent.com/86723888/153263459-dc522633-6bd4-4b09-829f-65d5af6908b0.png)![ex42](https://user-images.githubusercontent.com/86723888/153263502-a184cc91-c208-4deb-b4d4-0cdd57bcac63.png)![ex43](https://user-images.githubusercontent.com/86723888/153263511-f7f02bd2-68b5-4d04-908a-7955bcfa5939.png)
+
+
+
+
 
