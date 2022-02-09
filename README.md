@@ -35,7 +35,7 @@ After expanding the above equation, we can have the general quadratic form.
 
 ## DEMO
 - example1:  
-<img width="50" alt="bean" src="https://user-images.githubusercontent.com/86723888/153259615-04a469ec-aead-4091-8f96-0161f942fcaa.png">  
+<img width="50" alt="bean" src="https://user-images.githubusercontent.com/86723888/153259615-04a469ec-aead-4091-8f96-0161f942fcaa.png">    
 ![beam1](https://user-images.githubusercontent.com/86723888/153259724-355241fe-49f8-42bf-a79e-1b3ee29a80a2.png)![beams2](https://user-images.githubusercontent.com/86723888/153259820-65cd9f69-7ea3-4a20-b9f9-3b9b143733f1.png)
 
 
