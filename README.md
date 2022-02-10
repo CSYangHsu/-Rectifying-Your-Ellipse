@@ -79,7 +79,7 @@ left to right : algorithm1, algorithm2, compare:
 
 
 ## Conclusion
-雖然肉眼上看來兩者如出一轍，但若從Mean square error (MSE)的角度來看，algorithm 1在大多數情況是較為優秀的。
+Though the results of the two approaches are visually similar. Algorithm 1's performance is generally superior to algorithm 2's in terms of Mean Square Error (MSE).
 
 
 
